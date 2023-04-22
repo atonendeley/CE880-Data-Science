@@ -1,6 +1,6 @@
-●	Business Problem Overview
-●	Data Overview
-●	Exploratory Data Analysis (EDA)
-●	Model Performance Summary
-●	Business Insights and Recommendations
+# Overview of the Business Problem
+## Overview of Data
+## Exploratory Data Analysis (EDA)
+### Summary Performance of the Model
+#### Conclusion & Recommendations
 
