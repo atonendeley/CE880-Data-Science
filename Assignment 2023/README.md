@@ -2,7 +2,7 @@
 
 ## [Data_Description](Data_Description/Data_Description.md)
 
-## [Exploratory_Data_Analysis](Exploratory_Data_Analysis/Exploratory_Data_Analysis.md)
+## [Data_Analysis](Data_Analysis/Data_Analysis.md)
 
 ## Models
 ## Conclusion
