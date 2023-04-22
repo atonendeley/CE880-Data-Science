@@ -47,6 +47,7 @@ Marcuswingen. (2020, March 6). EDA of bookings and ML to predict cancelations On
 
 ## Libraries Used
 Python
+
 Python Standard Library: Built in python modules.
 Numpy: Scientific computing with python.
 Pandas: Data analysis tools.
