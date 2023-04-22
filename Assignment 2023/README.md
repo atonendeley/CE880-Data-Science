@@ -4,8 +4,9 @@
 
 ## [Exploratory_Data_Analysis](Exploratory_Data_Analysis/Exploratory_Data_Analysis.md)
 
-## Models
-## Conclusion
+## [Performance_of_Models](Peformance_of_Models/Performance_of_Models.md)
+
+## [Conclusion](Conclusion/Conclusion.md)
 
 
 ## Overview 
