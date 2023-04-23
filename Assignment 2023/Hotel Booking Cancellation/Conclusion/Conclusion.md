@@ -1,9 +1,12 @@
 ## [Overview](../README.md)
+
 ## [Data Description](.../Data_Description.md)
+
 ## [Exploratory Data Analysis](.../Exploratory_Data_Analysis.md)
+
 ## [Summary Performance of the Model](.../Models.md)
 
-# Conclusion
+### Conclusion
 * Overall the Decision Tree model performs better on the dataset.
 * Looking at important variables based on p-values in Logistic regression and feature importance in the Decision Tree model
 * Lead Time, Number of special requests, Average price per room are important in both model
