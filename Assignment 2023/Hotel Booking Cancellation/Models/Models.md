@@ -11,7 +11,6 @@
 
 
 
-
 #### Summary Performance of the Model
 
 * Analysis to predict whether a booking will be cancelled or not from the information provided.
