@@ -2,7 +2,7 @@
 * Overall the Decision Tree model performs better on the dataset.
 * Looking at important variables based on p-values in Logistic regression and feature importance in the Decision Tree model
 * Lead Time, Number of special requests, Average price per room are important in both model
-* 
+
 ## From the Logistic Regression model we observe that Lead Time, and Average price per room have a positive relation with bookings getting canclled. And the number of special requests has negative relation with bookings getting cancelled.
 
 * The hotel can take the following actions for the customers who have booked more than 151 days in advance:
