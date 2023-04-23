@@ -1,6 +1,6 @@
 **Summary Performance of the Model
 
-**Analysis to predict whether a booking will be cancelled or not from the information provided.
+* Analysis to predict whether a booking will be cancelled or not from the information provided.
 
 * F1 Score will be used as the performance metric for the model on the following basis:
 
