@@ -10,8 +10,26 @@
 ## [Conclusion](../Conclusion/Conclusion.md)
 
 
-
 #### Summary Performance of the Model
+Before discussing the summary a quick overview of the models used will be explained briefly
+
+### Models 
+
+### Logistic Regression
+Logistic regression comes under the most popular Supervised Machine Learning algorithms. Logistic regression predicts the categorical dependent variable using a given set of independent variables. The categorical dependent variable should be either Yes or No, 0 or 1, true or false, etc. Logistic regression is much comparable to Linear Regression only implementation is different. Linear Regression solves the Regression problems, and Logistic regression is used for solving the classification problems. Instead of fitting the regression line, In logistic regression, we fit the sigmoid S function, which predicts two maximum values(0,1). The curve from the logistic function indicates the likelihood of something such as whether rain comes or not based on weather conditions.
+
+### Logistic Function (Sigmoid Function)
+To map the predicted values to probabilities sigmoid function is used. It maps the values between the range of 0 and 1. The threshold value is used in the logistic regression to compute the S Shape. The threshold value defines the probability of either 0 or 1. The value above the threshold tends to be 1, and the values below the threshold tend to 0.
+
+### Assumptions for Logistic Regression
+The data must follow a normal distribution.
+The dependent variable must be categorical.
+The independent variable should not have multi-collinearity
+
+### Decision Tree Classification Algorithm
+The Decision Tree algorithm belongs to the family of non-parametric, supervised learning algorithms. It allows for solving regression and classification problems
+
+#### Summary 
 
 * Analysis to predict whether a booking will be cancelled or not from the information provided.
 
