@@ -1,12 +1,12 @@
 ## [Overview](../README.md)
 
-## [Data Description](.../Data_Description/Data_Description.md)
+## [Data Description](../Data_Description/Data_Description.md)
 
 # Exploratory Data Analysis
 
-## [Summary Performance of the Model](.../Models/Models.md)
+## [Summary Performance of the Model](../Models/Models.md)
 
-## [Conclusion](.../Conclusion/Conclusion.md)
+## [Conclusion](../Conclusion/Conclusion.md)
 
 
 
