@@ -14,6 +14,9 @@ First statistical graphs and visualisation techniques are adopted to find differ
 
 ### Data Collection
 Collecting data is a starting point of exploratory data analysis. Data collection is the process of finding data from different public sites, or one can buy from private organizations and load data into the system. in this case the data was provided for the study.
+fig, ax = plt.subplots()
+ax.axis('off')
+ax.table(cellText=data.head().values,colLabels=data.columns,loc='center')
 
 
 * October is the busiest month for the hotel followed by September.
