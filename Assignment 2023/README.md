@@ -4,7 +4,7 @@
 
 ## [Exploratory_Data_Analysis](Exploratory_Data_Analysis/Exploratory_Data_Analysis.md)
 
-## [Summary Performance of the Model](Model_Performance/Model_Peformance.md)
+## [Summary_Performance_of_the_Model](Model_Performance/Model_Peformance.md)
 
 ## [Conclusion](Conclusion/Conclusion.md)
 
