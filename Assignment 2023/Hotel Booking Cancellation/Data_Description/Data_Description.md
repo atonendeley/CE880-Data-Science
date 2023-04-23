@@ -2,11 +2,11 @@
 
 # Data Description
 
-## [Exploratory Data Analysis](.../Exploratory_Data_Analysis.md)
+## [Exploratory Data Analysis](.../Exploratory_Data_Analysis/Exploratory_Data_Analysis.md)
 
-## [Summary Performance of the Model](.../Models.md)
+## [Summary Performance of the Model](.../Models/Models.md)
 
-## [Conclusion](.../Conclusion.md)
+## [Conclusion](.../Conclusion/Conclusion.md)
 
 #### The data contains information about 36275 booking records.
 * The characteristics include number of adults, number of children, average price per room, type of meal plan selected, number of special requests from a customer and more.
