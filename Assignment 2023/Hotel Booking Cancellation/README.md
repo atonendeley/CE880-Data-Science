@@ -1,14 +1,14 @@
 # Overview 
 
-## [Data_Description](Data_Description/Data_Description.md)
+## [Data Description](Data_Description/Data_Description.md)
 
-## [Exploratory_Data_Analysis](Exploratory_Data_Analysis/Exploratory_Data_Analysis.md)
+## [Exploratory Data Analysis](Exploratory_Data_Analysis/Exploratory_Data_Analysis.md)
 
-## [Summary_Performance_of_the_Model](Models/Models.md)
+## [Summary Performance of the Model](Models/Models.md)
 
 ## [Conclusion](Conclusion/Conclusion.md)
 
-## HOTEL BOOKING CANCELLATION 
+### HOTEL BOOKING CANCELLATION 
 
 ### This project is based on Predicting the cancellation of hotel booking?
 
