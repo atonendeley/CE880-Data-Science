@@ -23,6 +23,7 @@
 * The bookings where the average price per room is high, and there were special requests associated should not get a full refund as the loss of resources will be high in these cases.
 * Ideally the cancellation policies should be consistent across all market segments but as noticed in our analysis high percentage of bookings done online are cancelled. The booking cancelled online should yield less percentage of refund to the customers.
 * The refunds, cancellation fee should be highlighted on the website/app before a customer confirms their booking to safeguard their interest.
+
  #### Recommendation from insights
 *	From the analysis it shows that bookings, where the total length of stay was more than 5 days, had a higher chance of getting cancelled. The hotel can restrict the duration of booking up to 5 days only with an option for customers to book an extension if they are willing to extend their stay. Such restrictions can be a good strategy for the hotel to generate additional revenue and can be relaxed for certain market segments (like Corporate and Aviation) such that it does not hamper their experience with the hotel.
 *	During December and January ratio of cancellation to non-cancellation is low. Customers might travel to celebrate Christmas and New Year. The hotel should ensure that they have adequate human resources available to cater for the needs of their guests.
