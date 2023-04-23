@@ -8,8 +8,7 @@
 
 ## [Conclusion](Conclusion/Conclusion.md)
 
-## Overview
-# HOTEL BOOKING CANCELLATION 
+## HOTEL BOOKING CANCELLATION 
 
 ### This project is based on Predicting the cancellation of hotel booking?
 
