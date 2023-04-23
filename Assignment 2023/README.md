@@ -8,10 +8,12 @@
 
 ## [Conclusion](Conclusion/Conclusion.md)
 
-## Overview 
+## Overview
+# HOTEL BOOKING CANCELLATION 
+
 ### This project is based on Predicting the cancellation of hotel booking?
 
-Introduction
+### Introduction
 The rate of cancellation for bookings in the hospitality industry is quite alarming as it is high in the competitive market offering no deposit for bookings. Once the booking has been cancelled, there is almost nothing the hotel can do. This kind of setting creates issues and monetary losses for many hotels and creates a demand to take prior precautions for high number of cancellations. Therefore, predicting bookings that can be cancelled and preventing these cancellations will create value for the hospitality industry. This project aims to ascertain how future cancelled hotel bookings can be predicted in advance with the help of machine learning methods. Includimg the measures and steps that can be implemented to reduce their impact on the industry’s revenue.
 
 ### Project Objectives
