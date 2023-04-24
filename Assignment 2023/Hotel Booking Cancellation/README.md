@@ -18,6 +18,13 @@ The rate of cancellation for bookings in the hospitality industry is quite alarm
 ### Project Objectives
 The aim of the project is to predict whether a booking made in a hotel can be cancelled in future or not. Machine models have been developed for this to help identify and flag bookings with probability of high cancellation rates by analysing the trends and features associated with it. To prevent the resulting income losses, hotels can take action on these bookings. With the aid of this form of prediction, hotels can adopt better net demand projections, better overbooking/cancellation policies, and more forceful pricing and inventory allocation tactics. Additionally, hotels can use this technique to determine which of their regular clients never cancel their reservations and are eligible for loyalty rewards.
 
+### The process involved in dealing with the data involves the following steps with details shown in other sections.
+* 1. Import Libraries 
+* 2. Import the data
+* 3. Preprocess the data
+* 4. Split the data into training and test sets.
+* 5. Fit the models and evaluate performance
+
 
 ### Main References
 * N. Antonio, A. de Almeida, and L. Nunes, “Predicting hotel bookings cancellation with a machine learning
