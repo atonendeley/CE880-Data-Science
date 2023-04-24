@@ -15,6 +15,11 @@ First statistical graphs and visualisation techniques are adopted to find differ
 ### Data Collection
 Collecting data is a starting point of exploratory data analysis. Data collection is the process of finding data from different public sites, or one can buy from private organizations and load data into the system. in this case the data was provided for the study.
 
+1. Import Libraries 
+2. Import the data
+3. Preprocess the data
+
+
 
 * October is the busiest month for the hotel followed by September.
 * 14.7% of the bookings were made in October.
