@@ -13,6 +13,9 @@
 #### Summary Performance of the Model
 Before discussing the summary a quick overview of the models used will be explained briefly
 
+* Split the data into training and test sets.
+* Fit the models and evaluate performance
+
 ### Models 
 
 Fit the models and evaluate performance
