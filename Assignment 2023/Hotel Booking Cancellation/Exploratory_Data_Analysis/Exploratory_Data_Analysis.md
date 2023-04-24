@@ -19,6 +19,9 @@ Collecting data is a starting point of exploratory data analysis. Data collectio
 2. Import the data
 3. Preprocess the data
 
+### Graphs showing the factors most heavily impacting the target attribute
+
+### Insights from the graphs showing the factors most heavily impacting the target attribute
 
 
 * October is the busiest month for the hotel followed by September.
