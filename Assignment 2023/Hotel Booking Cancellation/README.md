@@ -24,9 +24,10 @@ The aim of the project is to predict whether a booking made in a hotel can be ca
 * 3. Preprocess the data
 * 4. Split the data into training and test sets.
 * 5. Fit the models and evaluate performance
-## Steps you can follow to create a hotel booking cancellation prediction model using logistic regression and decision tree:
+* 
+### Steps to create a hotel booking cancellation prediction model using logistic regression and decision tree:
 
-## Import necessary libraries like pandas, numpy, seaborn, matplotlib, scikit-learn, etc.
+* Import necessary libraries like pandas, numpy, seaborn, matplotlib, scikit-learn, etc.
 
 * Load the dataset into a pandas dataframe.
 
@@ -51,8 +52,6 @@ The aim of the project is to predict whether a booking made in a hotel can be ca
 * Apply pruning to the decision tree model to reduce overfitting and improve generalization.
 
 * Compare the performance of the logistic regression and decision tree models and select the best model.
-
-* Fine-tune the selected model's hyperparameters to optimize its performance using techniques like grid search, cross-validation, or random search.
 
 * Use the optimised model to predict hotel booking cancellations.
 
