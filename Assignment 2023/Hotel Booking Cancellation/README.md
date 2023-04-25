@@ -24,7 +24,37 @@ The aim of the project is to predict whether a booking made in a hotel can be ca
 * 3. Preprocess the data
 * 4. Split the data into training and test sets.
 * 5. Fit the models and evaluate performance
+## Steps you can follow to create a hotel booking cancellation prediction model using logistic regression and decision tree:
 
+## Import necessary libraries like pandas, numpy, seaborn, matplotlib, scikit-learn, etc.
+
+* Load the dataset into a pandas dataframe.
+
+* Perform exploratory data analysis (EDA) to understand the data and identify any data quality issues like missing values, outliers, or inconsistent data.
+
+* Perform data pre-processing, which may include feature selection, feature engineering, data cleaning, data transformation, and data normalization.
+
+* Split the dataset into training and testing sets.
+
+* Build a logistic regression model to predict whether a booking will be canceled or not. Use scikit-learn's LogisticRegression function to create the model.
+
+* Evaluate the model's performance on the testing set using metrics like accuracy, precision, recall, and F1-score.
+
+* Check for multicollinearity among the independent variables, and if present, remove the highly correlated variables to avoid overfitting.
+
+* Determine the optimal threshold using the AUC-ROC curve.
+
+* Build a decision tree model to predict hotel booking cancellations using scikit-learn's DecisionTreeClassifier function.
+
+* Evaluate the decision tree model's performance on the testing set using metrics like accuracy, precision, recall, and F1-score.
+
+* Apply pruning to the decision tree model to reduce overfitting and improve generalization.
+
+* Compare the performance of the logistic regression and decision tree models and select the best model.
+
+* Fine-tune the selected model's hyperparameters to optimize its performance using techniques like grid search, cross-validation, or random search.
+
+* Use the optimised model to predict hotel booking cancellations.
 
 ### Main References
 * N. Antonio, A. de Almeida, and L. Nunes, “Predicting hotel bookings cancellation with a machine learning
